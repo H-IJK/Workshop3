@@ -27,7 +27,7 @@ public class GitPractice {
    }
 
    public static void groupMember3() {
-      System.out.println("I'm Hanh");
+      System.out.println("I don't know");
    }
    public static void groupMember() {
       System.out.println("THIS IS 5 PEOPLE GROUP");
