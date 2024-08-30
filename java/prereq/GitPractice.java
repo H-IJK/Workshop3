@@ -9,7 +9,7 @@ public class GitPractice {
       groupMember1();
       groupMember2();
       groupMember3();
-      groupMember4();
+      groupMember();
 
       System.out.println("- Running the optional advanced test on merge conflicts");
       mergeConflictArea();
@@ -29,7 +29,7 @@ public class GitPractice {
    public static void groupMember3() {
       System.out.println("I'm Hanh");
    }
-   public static void groupMember4() {
+   public static void groupMember() {
       System.out.println("");
    }
 
