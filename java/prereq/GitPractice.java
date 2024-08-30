@@ -17,21 +17,25 @@ public class GitPractice {
    }
 
    public static void groupMember1() {
-      // TODO: Group Member 1, place your code here
-   }
+      System.out.println("My name is Shinz");
+         }
 
    public static void groupMember2() {
       // TODO: Group Member 2, place your code here
-      System.out.println("We are a group?");
+      System.out.println("I'm Trung");
    }
 
    public static void groupMember3() {
       System.out.println("I'm Hanh");
    }
 
+   public static void groupMember4() {
+      System.out.println("I'm Vong Tran");
+   }
+
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-      //System.out.println("CHANGE ME");
+      System.out.println("CHANGE ME");
    }
 
 }
