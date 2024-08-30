@@ -30,7 +30,7 @@ public class GitPractice {
       System.out.println("I'm Hanh");
    }
    public static void groupMember() {
-      System.out.println("");
+      System.out.println("THIS IS 5 PEOPLE GROUP");
    }
 
    public static void groupMember4() {
