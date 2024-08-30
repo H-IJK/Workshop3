@@ -39,7 +39,7 @@ public class GitPractice {
 
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-      System.out.println("change made by Hanh");
+      System.out.println("Change made by Vong Tran");
    }
 
 }
